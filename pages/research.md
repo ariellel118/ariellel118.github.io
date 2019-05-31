@@ -8,7 +8,7 @@ description: Blue Ham's research
 
 #### <u>HEXAGONS!</u>
 **
-< a href="https://scholar.google.com/citations?user=1oAEwgIAAAAJ&hl=en">[See my Google Scholar Profile] </a>
+< a href="https://scholar.google.com/citations?user=1oAEwgIAAAAJ&hl=en">See my Google Scholar Profile </a>
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
