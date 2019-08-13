@@ -2,10 +2,10 @@
 layout: frontpage
 title: Arielle Little
 description: I am a PhD candidate at UC Berkeley. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+keywords: 
 ---
 
-I am a PhD candidate at UC Berkeley. My research involves optical measurements on quantum materials.
+I am a PhD candidate in Physics at UC Berkeley. I work in the group of Joe Orenstein at Lawrence Berkeley National Laboratory. My research involves optical measurements on quantum materials.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
