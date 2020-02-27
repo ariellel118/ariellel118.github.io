@@ -6,7 +6,7 @@ keywords:
 ---
 
 
-I am a PhD candidate in Physics at UC Berkeley, working in the <a href="http://orensteinlab.berkeley.edu/orenstein-group/">group of Prof. Joe Orenstein </a> at Lawrence Berkeley National Laboratory. I specialize in symmetry-sensitive optical probes of quantum materials. My research focus is centered on magnetic materials and the development of state-of-the-art, modular optical techniques based on ultrafast lasers. My main projects were 1. Time-domain terahertz spectroscopy of magnetic excitations in the spin liquid candidate material &alpha;-RuCl<sub>3</sub> and 2. The implementation of a scanning birefrigence microscopy technique to study the magnetic phase transition and nematicitic domain formation in the antiferromagnetic switching material, Fe<sub>1/3</sub>NbS<sub>2</sub>. I also developed the hardware to integrate a uniaxial strain device into an optical cryostat. 
+I am a PhD candidate in Physics at UC Berkeley, working in the <a href="http://orensteinlab.berkeley.edu/orenstein-group/">group of Prof. Joe Orenstein </a> at Lawrence Berkeley National Laboratory. I specialize in symmetry-sensitive optical probes of quantum materials. My research focus is centered on magnetic materials and the development of state-of-the-art, modular optical techniques based on ultrafast lasers. 
 
 Before graduate school, I spent a year as a researcher in Geneva, Switzerland working with the Antihydrogen Laser Physics Apparatus (<a href="http://alpha.web.cern.ch/">ALPHA</a>) ALPHA is a large international collaboration combining expertise from plasma, atomic, and particle physics with the aim of trapping and preforming precision spectroscopy on atomic antimatter. 
 
