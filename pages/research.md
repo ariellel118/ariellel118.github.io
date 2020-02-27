@@ -8,7 +8,7 @@ description: Arielle Little's Research
 <a href="https://scholar.google.com/citations?user=1oAEwgIAAAAJ&hl=en">See my Google Scholar Profile </a>
 
 
- My work in graduate school centered on two main projects: 
+ Projects from Grad School:
 
 <strong>Three-state nematicity in Fe<sub>1/3</sub>NbS<sub>2</sub></strong>
 
@@ -19,15 +19,20 @@ A. Little<sup>*</sup>, C. Lee<sup>*</sup>, C. John, S. Doyle, E. Maniv, N.L. Nai
 
 <strong>Terahertz Spectroscopy of Proximate Kitaev Spin Liquid Material, α-RuCl<sub>3</sub></strong>
 
-A. Little<sup>*</sup>, L. Wu<sup>*</sup>, P. Lampen-Kelley, A. Banerjee, S. Patankar, D. Rees, C.A. Bridges, J-Q Yan, D. Mandrus, S.E. Nagler, J. Orenstein “Antiferromagnetic Resonance and terahertz continuum in α -RuCl3” <a href="https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.119.227201">Phys. Rev. Lett. 119 (22), 227201 (2017) </a>
+Using a pair of home-built time-domain terahertz spectrometers, we studied the magnetic exciations at zero-wavevector in α-RuCl<sub>3</sub>. 
+
+A. Little<sup>*</sup>, L. Wu<sup>*</sup>, P. Lampen-Kelley, A. Banerjee, S. Patankar, D. Rees, C.A. Bridges, J-Q Yan, D. Mandrus, S.E. Nagler, J. Orenstein “Antiferromagnetic Resonance and terahertz continuum in α-RuCl3” <a href="https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.119.227201">Phys. Rev. Lett. 119 (22), 227201 (2017) </a>
 
 L. Wu<sup>*</sup>, A. Little<sup>*</sup>, E. Aldape<sup>*</sup>, D. Rees, E. Thewalt, P. Lampen-Kelley, A. Banerjee, C.A. Bridges, J-Q. Yan, D. Boone, S. Patankar, D. Goldhaber-Gordon, D. Mandrus, S.E. Nagler, E. Altman, J. Orenstein. “Field evolution of magnons in α -RuCl3 by high-resolution terahertz spectroscopy.” Editors’ Suggestion Award, Phys. Rev. B 98, 094425 (2018)
 
-<strong>Unaxial Strain<sub>3</sub></strong>
+
+
+
+<strong>Unaxial Strain</strong>
 
 In collaboration with MPI, Dresden, I developed hardware to integrate a uniaxial strain device into our optical cryostat. 
 
-<strong>Beam time experience<sub>3</sub></strong>
+<strong>Beam time experience</strong>
 
 Our lab is right next to the Advanced Light Source (ALS)-- as such, throughout grad school I have gotten the opportunity work with staff scientists to collect data on my samples during a few beam time shifts on the micro-laue diffraction, X-ray dichroism, and FTIR beam lines at the ALS.
 
