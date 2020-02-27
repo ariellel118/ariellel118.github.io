@@ -6,11 +6,11 @@ keywords:
 ---
 
 
-I am a PhD candidate in Physics at UC Berkeley, working in the group of Prof. Joe Orenstein at Lawrence Berkeley National Laboratory. I specialize in symmetry-sensitive optical probes of quantum materials. My research focus is centered on magnetic materials and the development of state-of-the-art, modular optical techniques based on ultrafast lasers. My main projects involved 1. Time-domain terahertz spectroscopy of magnetic excitations in the spin liquid candidate material <p>&Alpha;<p>RuCl<sub>3</sub>sub> and 2. The development of a scanning birefrigence microscopy technique to study the magnetic phase transition and nematicity in the antiferromagnetic switching material, Fe<sub>1/3</sub>NbS<sub>2</sub>. I also developed the hardware to integrate a uniaxial strain device into an optical cryostat. 
+I am a PhD candidate in Physics at UC Berkeley, working in the group of Prof. Joe Orenstein at Lawrence Berkeley National Laboratory. I specialize in symmetry-sensitive optical probes of quantum materials. My research focus is centered on magnetic materials and the development of state-of-the-art, modular optical techniques based on ultrafast lasers. My main projects involved 1. Time-domain terahertz spectroscopy of magnetic excitations in the spin liquid candidate material <p>&alpha;<p>RuCl<sub>3</sub> and 2. The development of a scanning birefrigence microscopy technique to study the magnetic phase transition and nematicity in the antiferromagnetic switching material, Fe<sub>1/3</sub>NbS<sub>2</sub>. I also developed the hardware to integrate a uniaxial strain device into an optical cryostat. 
 
-Before graduate school, I spent a year as a researcher in Geneva, Switzerland working with the Antihydrogen Laser Physics Apparatus (ALPHA) as part of large interanational collaboration combining expertise from plasma, atomic, and particle physics with the aim of trappin and preforming precision spectroscopy on atomic antimatter. 
+Before graduate school, I spent a year as a researcher in Geneva, Switzerland working with the Antihydrogen Laser Physics Apparatus (ALPHA) as part of large interanational collaboration combining expertise from plasma, atomic, and particle physics with the aim of trapping and preforming precision spectroscopy on atomic antimatter. 
 
-I was also an undergrad at UC Berkeley (Go Bears!) were I majored in Physics and Geophysics with a minor in Creative Writing. I also worked for the Daily Californian student newspaper, in various capacities on the Arts staff, for four years. 
+I was also an undergrad at UC Berkeley (Go Bears!) were I majored in Physics with a minor in Creative Writing. I also worked for the Daily Californian student newspaper, in various capacities on the Arts staff, for four years. 
 
 I am looking for new opportunites as of May 2020!
 
