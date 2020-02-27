@@ -8,7 +8,7 @@ keywords:
 
 I am a PhD candidate in Physics at UC Berkeley, working in the <a href="http://orensteinlab.berkeley.edu/orenstein-group/">group of Prof. Joe Orenstein </a> at Lawrence Berkeley National Laboratory. I specialize in symmetry-sensitive optical probes of quantum materials. My research focus is centered on magnetic materials and the development of state-of-the-art, modular optical techniques based on ultrafast lasers. 
 
-Before graduate school, I spent a year as a researcher in Geneva, Switzerland working with the Antihydrogen Laser Physics Apparatus (<a href="http://alpha.web.cern.ch/">ALPHA</a>) ALPHA is a large international collaboration combining expertise from plasma, atomic, and particle physics with the aim of trapping and preforming precision spectroscopy on atomic antimatter. 
+Before graduate school, I spent a year as a researcher in Geneva, Switzerland working with the Antihydrogen Laser Physics Apparatus (<a href="http://alpha.web.cern.ch/">ALPHA</a>). ALPHA is a large international collaboration combining expertise from plasma, atomic, and particle physics with the aim of trapping and preforming precision spectroscopy on atomic antimatter. 
 
 I was also an undergrad at UC Berkeley (Go Bears!) where I majored in Physics with a minor in Creative Writing. During this time I also worked for the Daily Californian student newspaper, in various capacities on the Arts staff.
 
